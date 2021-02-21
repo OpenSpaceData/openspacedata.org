@@ -1,0 +1,13 @@
+<header class="header" {% if page.stageimage == true %}style="background:url(https://images.unsplash.com/photo-1460186136353-977e9d6085a1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=3000&q=80) no-repeat center right;background-size: cover;"{% endif %}>
+  <div class="container">
+    {% if site.logo %}{% include site-logo.html %}{% endif %}
+    {% include site-nav.html %}
+  </div>
+
+  <section class="stage">
+    <div class="container typeset intro {% if page.stageimage == true %}intro-big{% endif %}">
+      <h1>{{ page.headline }}</h1>
+      {% if page.intro %}<p>{{ page.intro }}</p>{% endif %}
+    </div>
+  </section>
+</header>
