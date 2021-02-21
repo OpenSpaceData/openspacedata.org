@@ -1,42 +1,33 @@
 ---
 title: Start
-headline: Satellite data for everyone.
+headline: We want to democratizing satellite data – through easy to use tools and education.
 stageimage: true
+order: 1
 ---
 
-A really basic theme for Jekyll, using the official Jekyll theme implementation.
+**OUR MISSION**
+> We believe that open satellite data should be accessible to everyone - without barriers. We want to help people get easy access to open satellite data and empower them to draw the right insights.
 
-- [Fork on GitHub](https://github.com/daviddarnes/garth)
-- [Install Garth](https://github.com/daviddarnes/garth#installation)
+Read more about the importance of openly available Earth observation data on [reset.org](https://en.reset.org/blog/outer-space-all-just-how-accessible-esas-satellite-data-01262021).
 
-[<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" width="217"/>](https://buymeacoffee.com/daviddarnes#support)
+## The project
 
-## Installation
+The 12 Copernicus satellites of ESA alone deliver 250 TB of data per day. The problem: Often, technical (APIs) and professional knowledge (determination of sensors, specific parameters, etc.) is needed to retrieve data. OpenSpaceData is intended to provide easy access to this socially relevant information. This ensures that everyone - citizen or NGO - can classify events independently.
 
-### As a Jekyll theme
+This community-driven* project aims to provide a search tool that makes it easier for everyone to find data, regardless of technical or professional knowledge. To this end, openly available satellite data, such as those of <i>European Space Agendy</i> (ESA), will be centralized on OpenSpaceData to facilitate access to them via a simple search mask. It translates the user's need into the appropriate parameters of the satellite program.
 
-1. Add `gem "garth-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: garth-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options
+Get to know more about [our approach](/our-approach/).
 
-### As a GitHub Pages remote theme
+<small>*Everything we do is open-source and free to use and share for everyone.</small>
 
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/garth` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options
+## Satellite data is only for experts?
 
-### As a Boilerplate / Fork
+Nope, with this project, we are explicitly not addressing developers or scientists. We want to offer something specifically for non-specialist users. So, many more people can benefit from them.
 
-_(deprecated, not recommended)_
+📚 students & teacher<br />
+ ✏️ journalists<br />
+🔥 climate activists<br />
+⛑ humanitarian helpers<br />
+👱‍♀️ all citizens
 
-1. [Fork the repo](https://github.com/daviddarnes/garth#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `LICENSE`, `screenshot.png`, `CNAME` and `garth-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options
+We will provide examples and libraries with which you can quickly get started without becoming an expert in the analysis of satellite data. More information on how you can use OpenSpaceData.org for you and your cause will follow.

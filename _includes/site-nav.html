@@ -1,6 +1,7 @@
 <nav class="nav">
   <ul class="list list--nav">
-    {% for item in site.pages %}
+    {% assign sorted_pages = site.pages | sort:"order" %}
+    {% for item in sorted_pages %}
       {% unless item.nav == false or item.title == false or item.url contains "/page" or item.url contains "/404.html" or item.url contains "/feed." %}
         <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
           {% if item.collectionpage %}

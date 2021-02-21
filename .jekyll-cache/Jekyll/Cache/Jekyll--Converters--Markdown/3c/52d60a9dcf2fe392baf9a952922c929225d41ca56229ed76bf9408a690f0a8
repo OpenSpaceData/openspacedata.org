@@ -1,0 +1,16 @@
+I"î<p>Satellites, like digital cameras, record wavelengths. But they record a wider range of the electromagnetic spectrum. Different bands, like the RGB channels in the digital camera, that capture a certain range of wavelengths make up the satellite image.</p>
+
+<p>But what interests the user: Health of a forest, surface temperature of Berlin, extent of flooding in Florida.</p>
+
+<p>OpenSpaceData is trying to solve this challenge in two steps:</p>
+
+<h2 id="1-the-acquisition-of-data-using-a-search-mask">1. The acquisition of data using a search mask.</h2>
+
+<p>For different cases the measurement of different wavelengths of the electromagnetic spectrum is necessary - e.g. water reflects a different wavelength than asphalt. But the user does not need to know this, because OpenSpaceData does that (choice of sensors, bands, wavelengths etc.). It translates users request into the technical parameters necessary to retrieve the desired satellite data. The user receives the appropriate satellite image. However, this is not provided by OpenSpaceData, but is stored directly on an ESA server. The image can be easily downloaded via a link and then processed.</p>
+
+<h2 id="2-simple-instructions-for-processing-the-data">2. Simple instructions for processing the data</h2>
+
+<p>If you want to determine specific values like the Normalized Difference Vegetation Index (NDVI), which describes the health status of plants from -1 to +1, you have to combine different bands. OpenSpaceData provides simple instructions that indicate how and with which tools the bands can be combined to obtain the desired value.</p>
+
+<p>OpenSpaceData is an open source project. That means everything we develop is freely available for everyone to use and reuse - both the code and the content.</p>
+:ET

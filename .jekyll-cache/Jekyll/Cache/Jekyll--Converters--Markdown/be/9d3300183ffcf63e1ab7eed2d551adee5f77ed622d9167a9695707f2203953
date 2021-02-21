@@ -1,0 +1,16 @@
+I"�<p>Satelliten erfassen, wie Digitalkameras, Wellenlängen. Sie nehmen aber einen größeren Bereich des elektromagnetischen Spektrums auf. Bänder, die einen bestimmten Bereich von Wellenlängen abbilden, bilden ein Satellitenbild.</p>
+
+<p>Was aber den Nutzer interessiert: Gesundheitszustand eines Waldes, Oberflächentemperatur von Berlin, Ausmaß der Überschwemmung in Florida.</p>
+
+<p>OpenSpaceData ist ein Open-Source Projekt. Das heißt, alles was wir entwickeln, steht allen frei zur Nutzung und zur Weiterverwendung zur Verfügung – sowohl der code als auch die Inhalte.</p>
+
+<p>OpenSpaceData versucht diese Herausforderung in zwei Schritten zu lösen:</p>
+
+<h2 id="1-die-akquisation-von-daten-mithilfe-einer-einfachen-suchmaske">1. Die Akquisation von Daten mithilfe einer einfachen Suchmaske</h2>
+
+<p>Für unterschiedliche Aufträge ist die Messung unterschiedlicher Wellenlängen des elmag. Spektrums notwendig – bspw. reflektiert Wasser eine andere Wellenlänge als Asphalt. Der Nutzer muss das aber nicht wissen, denn das macht OpenSpaceData (Wahl der Sensoren, Bänder, Wellenlängen etc.). Es übersetzt die Aufträge in die technischen Parameter, die notwendig sind, um die gewünschten Satellitendaten abzurufen. Der Nutzer erhält das passende Satellitenbild. Dies stellt allerdings nicht OpenSpaceData zur Verfügung, sondern liegt direkt auf einem Server der ESA. Das Bild kann einfach via Link gedownloadet und anschließend weiterverarbeitet werden.</p>
+
+<h2 id="2-einfache-anleitungen-zur-verarbeitung-der-daten">2. Einfache Anleitungen zur Verarbeitung der Daten</h2>
+
+<p>Möchte man spezifische Werte wie den NDVI, der den Gesundheitszustand von Pflanzen von -1 bis +1 beschreibt, ermitteln, muss man verschiedene Bänder miteinander kombinieren. OpenSpaceData stellt einfache Anleitungen bereit, die angeben, wie und mit welchen Tools man die Bänder miteinander kombinieren kann, um den gewünschten Wert zu erhalten.</p>
+:ET
