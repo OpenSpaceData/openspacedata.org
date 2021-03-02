@@ -205,3 +205,19 @@ video {
     box-shadow: inset 0 -2px 0 0 #000;
   }
 }
+
+.sponsoring {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.sponsoring img {
+  vertical-align: middle;
+  max-width: 300px;
+  max-height: 150px;
+  border-radius: 2px;
+  margin: 25px;
+  margin-top: 0px;
+  padding: 1rem;
+  background: #fff;
+}
