@@ -1,6 +1,6 @@
 ---
 title: Start
-headline: We want to democratizing satellite data – through easy to use tools and education.
+headline: We want to democratize satellite data – through easy to use tools and education.
 stageimage: true
 order: 1
 ---
