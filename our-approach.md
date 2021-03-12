@@ -10,7 +10,7 @@ But what interests the user: Health of a forest, surface temperature of Berlin, 
 
 OpenSpaceData is trying to solve this challenge in two steps:
 
-## 1. Accessibility: Data acquisition by using a simple search mask
+## 1. Accessibility: Data acquisition by using a simple search interface
 
 For different cases, the measurement of different wavelengths of the electromagnetic spectrum is necessary - e.g. water reflects a different wavelength than asphalt. But the user does not need to know this because OpenSpaceData does that (choice of sensors, bands, wavelengths etc.). It translates users request into the technical parameters necessary to retrieve the desired satellite data. The user receives the appropriate satellite image. However, this is not provided by OpenSpaceData but is stored directly on an ESA server. The image can be easily downloaded via a link and then processed.
 
