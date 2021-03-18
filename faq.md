@@ -15,6 +15,14 @@ nav: false
 
 <details>
   <summary>
+    <p>Warum sollte ich nicht einfach Sentinel Hub nutzen?</p>
+  </summary>
+
+  <p>Lorem ipsum</p>
+</details>
+
+<details>
+  <summary>
     <p>What is the source of the data?</p>
   </summary>
 
