@@ -1,0 +1,37 @@
+I"�<p>We build an app that is aimed explicitly and exclusively at first-time users. What does that mean exactly? <a href="#the-approach">Read on</a>. The app can be used by everyone for free:</p>
+
+<p><a href="https://openspacedata.netlify.app/" target="_blank" class="button">Try it out yourself →</a></p>
+
+<video src="/assets/screen-getosd.mp4" autoplay="" controls="" muted="" loop=""></video>
+
+<h2 id="the-approach">The approach</h2>
+
+<p>Of course, we don’t want to deliver another tool that takes all the processing and analysis steps off the user’s hands. A big difference to other tools, besides prioritising the target group on first-time users, is that we want to “empower” people. Not only with the service of providing data, but also with building their own competences.</p>
+
+<p>“Education” is the key word here. We provide users with the right data and step-by-step instructions on how to process the data and then extract the right information from it. Our goal is that after they have worked with OSD once or twice, they can go further on their own and have built up enough basic knowledge in handling Earth observation data to continue working with more professional tools.</p>
+
+<p>A key point of our strategy is: we offer the easiest possible access for first-time users and do not rely on users working with our solution permanently. We are successful with our project if users can subsequently switch to professional applications.</p>
+
+<h2 id="how-it-works">How it works</h2>
+
+<p>We do not assume any programming skills or prior knowledge of Earth observation data. The interface speaks as simple a language as possible and neither assaults with technical terms nor requires complex inputs.</p>
+
+<p>Users only have to answer three questions:</p>
+
+<p><strong>What do I want to analyse?</strong> Here, users can choose from various predefined use cases, for example whether the health of vegetation should be determined or the effects of drought on a particular lake.</p>
+
+<p><strong>Which area do I want to analyse?</strong> Users have the option to select a location to be analysed. This works via a simple search field, similar to Google Maps or OpenStreetMap.</p>
+
+<p><strong>Which time period should be analysed?</strong> The Earth is constantly changing, so satellite data must always be seen in a temporal context. Users can specify whether they want the most recent data or the data from a specific period, for example from May 2008.</p>
+
+<p>Our software now ensures that users get the best possible satellite image and provides a step-by-step guide on how to analyse the data and then derive the right insights from it.</p>
+
+<p><a href="https://openspacedata.netlify.app/" target="_blank" class="button">Try it out yourself →</a></p>
+
+<h2 id="additional-links">Additional links</h2>
+
+<ul>
+  <li><a href="https://github.com/OpenSpaceData/get.openspacedata.org">Frontend code (Github)</a></li>
+  <li><a href="https://github.com/OpenSpaceData/api.openspacedata.org">API code (Github)</a></li>
+</ul>
+:ET

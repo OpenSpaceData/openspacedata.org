@@ -1,10 +1,10 @@
-I"3<p>Satellites, like digital cameras, record wavelengths. But they record a wider range of the electromagnetic spectrum. Like the RGB channels in the digital camera, different bands that capture a specific range of wavelengths make up the satellite image.</p>
+I"=<p>Satellites, like digital cameras, record wavelengths. But they record a wider range of the electromagnetic spectrum. Like the RGB channels in the digital camera, different bands that capture a specific range of wavelengths make up the satellite image.</p>
 
 <p>But what interests the user: Health of a forest, surface temperature of Berlin, extent of flooding in Florida.</p>
 
 <p>OpenSpaceData is trying to solve this challenge in two steps:</p>
 
-<h2 id="1-accessibility-data-acquisition-by-using-a-simple-search-mask">1. Accessibility: Data acquisition by using a simple search mask</h2>
+<h2 id="1-accessibility-data-acquisition-by-using-a-simple-search-interface">1. Accessibility: Data acquisition by using a simple search interface</h2>
 
 <p>For different cases, the measurement of different wavelengths of the electromagnetic spectrum is necessary - e.g. water reflects a different wavelength than asphalt. But the user does not need to know this because OpenSpaceData does that (choice of sensors, bands, wavelengths etc.). It translates users request into the technical parameters necessary to retrieve the desired satellite data. The user receives the appropriate satellite image. However, this is not provided by OpenSpaceData but is stored directly on an ESA server. The image can be easily downloaded via a link and then processed.</p>
 
