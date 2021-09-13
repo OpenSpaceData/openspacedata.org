@@ -1,7 +1,8 @@
 ---
-title: Try our app
+title: Our app
 headline: Satellite data for ordinary people
 order: 10
+nav: false
 ---
 
 We build an app that is aimed explicitly and exclusively at first-time users. What does that mean exactly? [Read on](#the-approach). The app can be used by everyone for free:
