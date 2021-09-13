@@ -190,6 +190,28 @@ video {
     white-space: pre;
     overflow-x: scroll;
   }
+
+  p {
+    margin-bottom: 0.75rem;
+  }
+
+  ul {
+    padding-left: 2.5rem;
+  }
+
+  ul li {
+    padding-left: .5rem;
+  }
+}
+
+video {
+  margin-top: 1rem;
+}
+
+.button {
+  background: gold;
+  padding: 0.75rem;
+  border-radius: 2px;
 }
 
 .social-links {
@@ -221,3 +243,9 @@ video {
   padding: 1rem;
   background: #fff;
 }
+
+.typeset h1 {
+  font-size: 3rem;
+  line-height: 3.5rem;
+}
+
