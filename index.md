@@ -33,6 +33,6 @@ We will provide examples and guides with which you can quickly get started witho
 ## Team
 
 <div class="columns">
- <p><strong>Fershad Irani</strong><br /><i>App Development at OpenSpaceData</i><br /><br />I help environmentally conscious companies ensure their websites are fast, optimised for performance, and have a low carbon impact.<br /><br /><a href="https://fershad.com/" target="_blank">Fershads website</a></p>
- <p><strong>Niklas Jordan</strong><br /><i>Geospatial stuff at OpenSpaceData</i><br /><br />Technologist, with focus on exploring and defending Earth and society. And studying Earth Science at The Open University.<br /><br /><a href="https://www.niklasjordan.com/" target="_blank">Niklas' website</p>
+ <p><strong>Fershad Irani</strong><br /><i>App Development at OpenSpaceData</i><br />I help environmentally conscious companies ensure their websites are fast, optimised for performance, and have a low carbon impact.<br /><a href="https://fershad.com/" target="_blank">Fershads website</a></p>
+ <p><strong>Niklas Jordan</strong><br /><i>Geospatial stuff at OpenSpaceData</i><br />Technologist, with focus on exploring and defending Earth and society. And studying Earth Science at The Open University.<br /><a href="https://www.niklasjordan.com/" target="_blank">Niklas' website</a></p>
 </div>
