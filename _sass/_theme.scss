@@ -256,3 +256,8 @@ video {
   line-height: 3.5rem;
 }
 
+.columns {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+}
