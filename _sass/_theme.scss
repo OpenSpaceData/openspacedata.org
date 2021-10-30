@@ -261,3 +261,5 @@ video {
     flex-direction: row;
     gap: 2em;
 }
+
+.columns > * { flex: 1; }
